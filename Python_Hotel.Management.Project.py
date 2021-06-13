@@ -20,8 +20,8 @@ class hotelmanagement:
         self.a = a
         self.name = name
         self.address = address
-        self.indate = cindate
-        self.outdate = coutdate
+        self.indate = indate
+        self.outdate = outdate
         self.rno = rno
 
     def inputdata(self):
